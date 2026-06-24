@@ -24,7 +24,7 @@ SP特工![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}降
 
 针对想要通过活动白嫖或利用储备![钻石](assets/img/道具/钻石.png){width=24px height=24px}解锁的玩家，建议采取以下规划：
 
-- **属性机制简析**：个人认为，非常推荐入手。虽然![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}自带的伤害属性 **神火**![神火](assets/img/技能图标/战斗中debuff/神火.png){width=24px height=24px} 与 **裂伤**![裂伤](assets/img/技能图标/战斗中debuff/裂伤.png){width=24px height=24px} 处于同一伤害乘区，但其带来的“武器技能初始学习等级+1（满级可达+2）”属性十分强力。用在 SS 级武器上，1![红星](assets/img/其它/红星.png){width=24px height=24px}开局即可达到 4 级，4![红星](assets/img/其它/红星.png){width=24px height=24px}开局直接 5 级（满级），对回响之战的体验有着颠覆性的提升。平民与微氪玩家可以考虑按照“解锁 $\rightarrow$ 1![红星](assets/img/其它/红星.png){width=24px height=24px} $\rightarrow$ 2![红星](assets/img/其它/红星.png){width=24px height=24px} $\rightarrow$ 4![红星](assets/img/其它/红星.png){width=24px height=24px}”的路线逐步培养；重氪玩家则推荐直接拉满至 4![红星](assets/img/其它/红星.png){width=24px height=24px} 或 6![红星](assets/img/其它/红星.png){width=24px height=24px}。
+- **属性机制简析**：个人认为，推荐入手。虽然![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}自带的伤害属性 **神火**![神火](assets/img/技能图标/战斗中debuff/神火.png){width=24px height=24px} 与 **裂伤**![裂伤](assets/img/技能图标/战斗中debuff/裂伤.png){width=24px height=24px} 处于同一伤害乘区，但其带来的武器技能初始学习等级+1（满级+2）用在ss武器上1![红星](assets/img/其它/红星.png){width=24px height=24px}开局4级，4![红星](assets/img/其它/红星.png){width=24px height=24px}开局5级的收益非常可观，足以改变回响之战的体验，微氪玩家平民玩家慢慢从开通->1![红星](assets/img/其它/红星.png){width=24px height=24px}->2![红星](assets/img/其它/红星.png){width=24px height=24px}->4![红星](assets/img/其它/红星.png){width=24px height=24px}，重氪玩家可选择直接到4![红星](assets/img/其它/红星.png){width=24px height=24px}或者6![红星](assets/img/其它/红星.png){width=24px height=24px}。
 - **解锁需要票数**：转盘解锁共需 **300** 票。
 ---
 
@@ -62,7 +62,7 @@ SP特工![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}降
 
 ### 方案四：拉满任务 + 购买128元礼包方案
 - **适用人群**：钻石充足、微氪希望同时补齐其他核心养成资源的玩家。
-- **具体策略**：拉满任务（105张券），购买128元礼包。购买完礼包后，再使用![钻石](assets/img/道具/钻石.png){width=24px height=24px}补齐 **130** 张券（相当于 **39,000** ![钻石](assets/img/道具/钻石.png){width=24px height=24px}）即可多获得80火神之锤碎片用于升星。 
+- **具体策略**：拉满任务（105张券），购买128元礼包。购买完礼包后，再使用![钻石](assets/img/道具/钻石.png){width=24px height=24px}补齐 **130** 张券（相当于 **39,000** ![钻石](assets/img/道具/钻石.png){width=24px height=24px}）即可多获得80![火神之锤](assets/img/活动道具/神火活动/火神之锤.png){width=24px height=24px}碎片用于升星。 
 
 ---
 
