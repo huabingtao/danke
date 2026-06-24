@@ -7,25 +7,25 @@ summary: 详尽分析SP特工伏尔甘的获取方案，包括各任务产出、
 image: /Users/hbt/my-project/content/danke/my-articles-md/活动/sp特工伏尔甘获取攻略/cover.png
 ---
 
-SP特工![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}降临！本篇攻略将为您详细拆解本次活动的玩法以及获取![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}的全部方案与最划算的资源配置建议。
+**【SP特工伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}降临！本篇攻略将为您详细拆解本次活动的玩法以及获取**【伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}的全部方案与最划算的资源配置建议。
 
 ---
 
 ## 一、SP特工伏尔甘获取途径
 
-目前获取![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}主要有以下两种途径：
+目前获取**【伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}主要有以下两种途径：
 
-- **直接购买礼包**：最简单直接的途径是购买 **128元礼包**（内含![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}及额外资源）。
-- **转盘累计**：在活动转盘中，累计消耗 **300** 张 **火神锤抽奖券** 即可自动解锁。
+- **直接购买礼包**：最简单直接的途径是购买 **<font color="#FF4D4F">128</font>元礼包**（内含**【伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}及额外资源）。
+- **转盘**：在活动**【转盘】**中，累计消耗 **<font color="#FF4D4F">300</font>** 张 **【火神锤抽奖券】** 即可自动解锁。
 
 ---
 
 ## 二、白嫖及钻石规划策略
 
-针对想要通过活动白嫖或利用储备![钻石](assets/img/道具/钻石.png){width=24px height=24px}解锁的玩家，建议采取以下规划：
+针对想要通过活动白嫖或利用储备**【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}解锁的玩家，建议采取以下规划：
 
-- **属性机制简析**：个人认为，推荐入手。虽然![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}自带的伤害属性 **神火**![神火](assets/img/技能图标/战斗中debuff/神火.png){width=24px height=24px} 与 **裂伤**![裂伤](assets/img/技能图标/战斗中debuff/裂伤.png){width=24px height=24px} 处于同一伤害乘区，但其带来的武器技能初始学习等级+1（满级+2）用在ss武器上1![红星](assets/img/其它/红星.png){width=24px height=24px}开局4级，4![红星](assets/img/其它/红星.png){width=24px height=24px}开局5级的收益非常可观，足以改变回响之战的体验，微氪玩家平民玩家慢慢从开通->1![红星](assets/img/其它/红星.png){width=24px height=24px}->2![红星](assets/img/其它/红星.png){width=24px height=24px}->4![红星](assets/img/其它/红星.png){width=24px height=24px}，重氪玩家可选择直接到4![红星](assets/img/其它/红星.png){width=24px height=24px}或者6![红星](assets/img/其它/红星.png){width=24px height=24px}。
-- **解锁需要票数**：转盘解锁共需 **300** 票。
+- **属性机制简析**：个人认为，非常推荐入手。虽然**【伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}自带的伤害属性 **【神火】**![神火](assets/img/技能图标/战斗中debuff/神火.png){width=24px height=24px} 与 **【裂伤】**![裂伤](assets/img/技能图标/战斗中debuff/裂伤.png){width=24px height=24px} 处于同一伤害乘区，但其带来的“武器技能初始学习等级+1（满级可达+2）”属性十分强力。用在 **【SS级武器】** 上，<font color="#FF4D4F">1</font>**【红星】**开局即可达到 <font color="#FF4D4F">4</font> 级，<font color="#FF4D4F">4</font>**【红星】**开局直接 <font color="#FF4D4F">5</font> 级（满级），对**【回响之战】**的体验有着颠覆性的提升。平民与微氪玩家可以考虑从“解锁 $\rightarrow$ <font color="#FF4D4F">1</font>**【红星】** $\rightarrow$ <font color="#FF4D4F">2</font>**【红星】** $\rightarrow$ <font color="#FF4D4F">4</font>**【红星】**”逐步培养；重氪玩家则推荐直接拉满至 <font color="#FF4D4F">4</font>**【红星】** 或 <font color="#FF4D4F">6</font>**【红星】**。
+- **解锁需要票数**：转盘解锁共需 **<font color="#FF4D4F">300</font>** 票。
 ---
 
 ## 三、火神锤抽奖券任务产出统计
@@ -34,15 +34,15 @@ SP特工![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}降
 
 | 来源渠道 | 免费获取券数量 |
 | :--- | :---: |
-| 广告奖励 | 3 |
-| 金币礼包购买 | 15 |
-| 每日战斗任务 | 72 |
-| 全服累计消耗 | 15 |
-| **可白嫖总数** | **105** |
+| 广告奖励 | <font color="#FF4D4F">3</font> |
+| 金币礼包购买 | <font color="#FF4D4F">15</font> |
+| 每日战斗任务 | <font color="#FF4D4F">72</font> |
+| 全服累计消耗 | <font color="#FF4D4F">15</font> |
+| **可白嫖总数** | **<font color="#FF4D4F">105</font>** |
 
-为了达到解锁所需的 **300** 票，我们在完成所有任务的前提下，还需要额外补齐 **195** 张票。
-- 1张票 = 300![钻石](assets/img/道具/钻石.png){width=24px height=24px}
-- 补齐 **195** 张票需要消耗：**58500** ![钻石](assets/img/道具/钻石.png){width=24px height=24px}。
+为了达到解锁所需的 **<font color="#FF4D4F">300</font>** 票，我们在完成所有任务的前提下，还需要额外补齐 **<font color="#FF4D4F">195</font>** 张票。
+- <font color="#FF4D4F">1</font>张票 = <font color="#FF4D4F">300</font>**【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}
+- 补齐 **<font color="#FF4D4F">195</font>** 张票需要消耗：**<font color="#FF4D4F">58500</font>** **【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}。
 
 ---
 
@@ -50,25 +50,25 @@ SP特工![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}降
 
 ### 方案一：适度氪金方案
 - **适用人群**：预算充足、追求性价比的氪金玩家。
-- **具体策略**：直接购买 **128元礼包**。对比直接买45,000![钻石](assets/img/道具/钻石.png){width=24px height=24px}，该礼包性价比极高。买完后多余的转盘票数可用于获取星级道具和其他稀有奖励。
+- **具体策略**：直接购买 **<font color="#FF4D4F">128</font>元礼包**。对比直接买 <font color="#FF4D4F">45,000</font> **【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}，该礼包性价比极高。买完后多余的转盘票数可用于获取其他稀有奖励，如 **【末世战马碎片】**![末世战马碎片](assets/img/碎片/末世战马碎片.png){width=24px height=24px} 和 **【核心自选宝箱精华】**![核心自选宝箱精华](assets/img/道具/核心自选宝箱精华.png){width=24px height=24px}。
 
 ### 方案二：完全白嫖/钻石直购方案
-- **适用人群**：无氪、拥有充足![钻石](assets/img/道具/钻石.png){width=24px height=24px}储备的玩家。
-- **具体策略**：拉满所有活动任务（白嫖 105 张券），最后一天定好闹钟（以免活动期间官方送券而浪费钻石），使用 **58500** ![钻石](assets/img/道具/钻石.png){width=24px height=24px} 补齐剩余的 **195** 张券，即可成功解锁。
+- **适用人群**：零氪或拥有充足**【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}储备的玩家。
+- **具体策略**：拉满所有活动任务（白嫖 <font color="#FF4D4F">105</font> 张券），最后一天定好闹钟（以免活动期间官方通过其他途径送券而多花钻石），使用 **<font color="#FF4D4F">58500</font>** **【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px} 补齐剩余的 **<font color="#FF4D4F">195</font>** 张券，即可成功解锁**【伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}。
 
 ### 方案三：任务 + 钻石自选礼包方案
 - **适用人群**：钻石充足、希望同时补齐其他核心养成资源的玩家。
-- **具体策略**：拉满任务（105张券），购买包含 ![异宠核心自选](assets/img/宝箱/异宠核心自选宝箱.png){width=24px height=24px} 和 ![谐振芯片自选](assets/img/宝箱/谐振芯片自选宝箱.png){width=24px height=24px} 的特惠自选箱礼包（不推荐包含 ![神器核心自选](assets/img/宝箱/神器核心自选宝箱png.png){width=24px height=24px} 的礼包）。购买完礼包后，再使用![钻石](assets/img/道具/钻石.png){width=24px height=24px}补齐 **130** 张券（相当于 **39,000** ![钻石](assets/img/道具/钻石.png){width=24px height=24px}）即可解锁。
+- **具体策略**：拉满任务（<font color="#FF4D4F">105</font>张券），购买包含 **【异宠核心自选】**![异宠核心自选](assets/img/宝箱/异宠核心自选宝箱.png){width=24px height=24px} 和 **【谐振芯片自选】**![谐振芯片自选](assets/img/宝箱/谐振芯片自选宝箱.png){width=24px height=24px} 的自选箱礼包（不推荐包含 **【神器核心自选】**![神器核心自选](assets/img/宝箱/神器核心自选宝箱png.png){width=24px height=24px} 的礼包）。购买完礼包后，再使用**【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}补齐 **<font color="#FF4D4F">130</font>** 张券（相当于 **<font color="#FF4D4F">39,000</font>** **【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}）即可解锁**【伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}。
 
 ### 方案四：拉满任务 + 购买128元礼包方案
-- **适用人群**：钻石充足、微氪希望同时补齐其他核心养成资源的玩家。
-- **具体策略**：拉满任务（105张券），购买128元礼包。购买完礼包后，再使用![钻石](assets/img/道具/钻石.png){width=24px height=24px}补齐 **130** 张券（相当于 **39,000** ![钻石](assets/img/道具/钻石.png){width=24px height=24px}）即可多获得80![火神之锤](assets/img/活动道具/神火活动/火神之锤.png){width=24px height=24px}碎片用于升星。 
+- **适用人群**：钻石充足、希望同时补齐其他核心养成资源的微氪玩家。
+- **具体策略**：拉满任务（<font color="#FF4D4F">105</font>张券），购买 <font color="#FF4D4F">128</font> 元礼包（内含 <font color="#FF4D4F">10</font> 张券）。购买完礼包后，再使用**【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}补齐 **<font color="#FF4D4F">185</font>** 张券（相当于 **<font color="#FF4D4F">55,500</font>** **【钻石】**![钻石](assets/img/道具/钻石.png){width=24px height=24px}）即可解锁**【伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}，同时额外获得 <font color="#FF4D4F">80</font> **【火神之锤】**![火神之锤](assets/img/活动道具/神火活动/火神之锤.png){width=24px height=24px} 碎片用于升星。 
 
 ---
 
-此外，还有一种特殊情况：如果你目前尚未解锁哪吒![哪吒](assets/img/特工/哪吒.png){width=24px height=24px}，那么在本次活动中建议优先选择哪吒碎片，待哪吒解锁后再选择伏尔甘![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}碎片。因为伏尔甘的核心伤害加成需要哪吒挂神火 Buff 才能完全发挥。若本期钻石不足以直接解锁伏尔甘也无需担心，下期神火活动预计依然能兑换其碎片，届时提前备足钻石即可。
+此外，还有一种特殊情况：如果你目前尚未解锁**【哪吒】**![哪吒](assets/img/特工/哪吒.png){width=24px height=24px}，那么在本次活动中建议优先选择**【莲花化身】**![莲花化身](assets/img/活动道具/神火活动/莲花化身.png){width=24px height=24px}，待**【哪吒】**![哪吒](assets/img/特工/哪吒.png){width=24px height=24px}解锁后再选择**【火神之锤】**![火神之锤](assets/img/活动道具/神火活动/火神之锤.png){width=24px height=24px}碎片。因为伏尔甘的核心伤害加成需要哪吒挂**【神火Buff】**才能完全发挥。若本期钻石不足以直接解锁伏尔甘也无需担心，下期神火活动预计依然能兑换其碎片，届时提前备足钻石即可。
 
-以上就是本次《神火特工第二弹 SP特工伏尔甘获取攻略》的全部内容，祝大家都能顺利拿到！下一篇内容将会对![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}的技能和属性做详细的讲解，同时也会就当前版本下伏尔甘的强度做详细的分析，欢迎到时候观看！
+以上就是本次《神火特工第二弹 SP特工伏尔甘获取攻略》的全部内容，祝大家都能顺利拿到！下一篇内容将会对**【伏尔甘】**![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}的技能和属性做详细的讲解，同时也会就当前版本下伏尔甘的强度做详细的分析，欢迎到时候观看！
 
 【免责声明】本攻略纯属个人**经验分享**，**仅供参考**，不构成任何消费建议。游戏版本更新较快，具体数值以游戏内实际表现为准。本攻略所引用的美术图片及游戏内截图版权均归 Habby 公司所有。
 
