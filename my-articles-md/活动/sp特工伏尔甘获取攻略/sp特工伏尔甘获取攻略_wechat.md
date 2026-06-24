@@ -58,7 +58,7 @@ SP特工![伏尔甘](assets/img/特工/伏尔甘.png){width=24px height=24px}降
 
 ### 方案三：任务 + 钻石自选礼包方案
 - **适用人群**：钻石充足、希望同时补齐其他核心养成资源的玩家。
-- **具体策略**：拉满任务（105张券），购买包含 ![异宠核心自选](assets/img/宝箱/异宠核心自选宝箱.png){width=24px height=24px} 和 ![谐振芯片与传奇收藏品自选宝箱](assets/img/宝箱/传奇收藏品、谐振芯片高级自选宝箱.png){width=24px height=24px} 的礼包（ ![神器核心自选](assets/img/宝箱/神器核心自选宝箱png.png){width=24px height=24px} 的礼包性价比最低）。购买完礼包后，再使用![钻石](assets/img/道具/钻石.png){width=24px height=24px}补齐 **135** 张券（相当于 **40500** ![钻石](assets/img/道具/钻石.png){width=24px height=24px}）即可解锁。
+- **具体策略**：拉满任务（105张券），购买包含 ![异宠核心自选](assets/img/宝箱/异宠核心自选宝箱.png){width=24px height=24px} 和 ![谐振芯片与传奇收藏品自选宝箱](assets/img/宝箱/谐振芯片与传奇收藏品自选宝箱.png){width=24px height=24px} 的礼包（ ![神器核心自选](assets/img/宝箱/神器核心自选宝箱png.png){width=24px height=24px} 的礼包性价比最低）。购买完礼包后，再使用![钻石](assets/img/道具/钻石.png){width=24px height=24px}补齐 **135** 张券（相当于 **40500** ![钻石](assets/img/道具/钻石.png){width=24px height=24px}）即可解锁。
 
 ### 方案四：拉满任务 + 购买128元礼包方案
 - **适用人群**：钻石充足、微氪希望同时补齐其他核心养成资源的玩家。
